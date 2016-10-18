@@ -1,0 +1,21 @@
+/* En intuitiv box-modell */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+/* Nollställ default avstånden */
+h1, h2, h3, h4, h5, h6, p {
+        margin: 0;
+        padding: 0;
+}
+hearder{
+
+
+}
+
+footer{
+
+
+}
